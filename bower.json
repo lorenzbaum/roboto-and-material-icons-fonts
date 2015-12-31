@@ -1,7 +1,7 @@
 {
   "name": "roboto-and-material-icons-fonts",
   "description": "A simple package providing the Roboto fontface and Material Icons fontface.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": [
     "./css/material-icons.css",
     "./css/roboto.css",
