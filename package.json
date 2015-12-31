@@ -1,24 +1,26 @@
 {
-  "name": "roboto-fontface",
-  "version": "0.4.3",
-  "description": "A simple package providing the Roboto fontface.",
+  "name": "roboto-and-material-icons-fonts",
+  "version": "0.1.0",
+  "description": "A simple package providing the Roboto fontface and Material Icons fontface.",
   "main": "css/roboto-fontface.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/choffmeister/roboto-fontface-bower.git"
+    "url": "https://github.com/lorenzbaum/roboto-and-material-icons-fonts.git"
   },
   "keywords": [
     "roboto",
     "font",
-    "fontface"
+    "fontface",
+    "material",
+    "icons"
   ],
-  "author": "Christian Hoffmeister <mail@choffmeister.de> (http://choffmeister.de/)",
+  "author": "Lorenz Baum <lorenzbaum@gmx.de> (https://www.lorenz-baum.de/)",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/choffmeister/roboto-fontface-bower/issues"
+    "url": "https://github.com/lorenzbaum/roboto-and-material-icons-fonts/issues"
   },
-  "homepage": "https://github.com/choffmeister/roboto-fontface-bower"
+  "homepage": "https://github.com/lorenzbaum/roboto-and-material-icons-fonts"
 }
