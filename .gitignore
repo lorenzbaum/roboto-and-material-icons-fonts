@@ -7,4 +7,5 @@ Thumbs.db
 # ==========================
 .sass-cache/
 .bower-*/
+/bower_*/
 .idea/
