@@ -1,4 +1,4 @@
-# Roboto fontface and Material Design Icons  ![](https://styleci.io/repos/48856946/shield?branch=master)
+# Roboto fontface and Material Design Icons  [![StyleCI Status](https://styleci.io/repos/48856946/shield?branch=master)](https://styleci.io/repos/48856946)
 
 A simple package providing the [Roboto](http://www.google.com/fonts/specimen/Roboto) fontface and the Material Design Icons fontface. The Roboto was created by [Christian Robertson](https://plus.google.com/110879635926653430880/about).
 
